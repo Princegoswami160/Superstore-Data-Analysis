@@ -90,6 +90,7 @@ This project showcases how different tools can be integrated to build a complete
 ⭐ Support
 
 If you like this project:
+
 👉 Star this repository
 
 👉 Connect with me on LinkedIn
