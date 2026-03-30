@@ -91,4 +91,7 @@ This project showcases how different tools can be integrated to build a complete
 
 If you like this project:
 👉 Star this repository
+
 👉 Connect with me on LinkedIn
+
+https://www.linkedin.com/in/prince-kumar-giri-450114331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
