@@ -4,6 +4,7 @@
 ## End-to-End Data Analysis Pipeline
 
 👤 Author: Prince Kr Giri
+
 🎓 Course: B.Tech CSE (CYS)
 
 - Project Overview
@@ -17,7 +18,7 @@ Data Cleaning & EDA using Python (Jupyter Notebook)
 Database Integration using MySQL
 Data Visualization using Power BI
 Final Reporting using PPT & Documentation
-## - Project Workflow
+## Project Workflow
 Dataset → Python (EDA) → MySQL (Queries) → Power BI (Dashboard) → Report & PPT
 ## Step 1: Data Cleaning & EDA (Python - Jupyter Notebook)
 Cleaned dataset using Pandas
@@ -54,19 +55,19 @@ Ensured proper relationships & data modeling
 
 ##  Step 4: Dashboard Development (Power BI)
 🔹 KPIs
-    - Total Sales
-    - Total Profit
-    - Total Orders
+Total Sales
+Total Profit
+Total Orders
 🔹 Visualizations
-    - Bar Chart → Category Sales
-    - Pie Chart → Customer Segments
-    - Map → Region-wise Sales
-    - Line Chart → Sales Trends
-    - Scatter Plot → Discount vs Profit
+Bar Chart → Category Sales
+Pie Chart → Customer Segments
+Map → Region-wise Sales
+Line Chart → Sales Trends
+Scatter Plot → Discount vs Profit
 🔹 Interactive Features
-    - Slicers (Region, Segment, Date)
-    - Dynamic filtering
-    - Real-time insights
+Slicers (Region, Segment, Date)
+Dynamic filtering
+Real-time insights
 ## DashBoard Screenshot
 <img width="1385" height="771" alt="Screenshot 2026-03-25 032707" src="https://github.com/user-attachments/assets/7043834f-b303-4002-a24a-f273b4605747" />
 
@@ -76,10 +77,10 @@ Ensured proper relationships & data modeling
 - Presentation Slides (PPTX)
   - Business insights & conclusions documented
 - Key Insights
-High discounts (40–50%) reduce profitability
-Technology category leads sales
-Sales show consistent growth over years
-West region contributes highest profit
+  - High discounts (40–50%) reduce profitability
+  - Technology category leads sales
+  - Sales show consistent growth over years
+  - West region contributes highest profit
 
 ##  Key Achievements
 
