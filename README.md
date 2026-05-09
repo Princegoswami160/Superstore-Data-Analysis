@@ -85,8 +85,11 @@ Real-time insights
 ##  Key Achievements
 
 ✔ Built complete data pipeline (Python → SQL → Power BI)
+
 ✔ Integrated tools like a real industry workflow
+
 ✔ Created interactive dashboard
+
 ✔ Delivered business-ready insights & reports
 
 ##  Conclusion
